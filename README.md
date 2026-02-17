@@ -12,4 +12,4 @@ OEM configured and accessed successfully.
 <img width="1821" height="868" alt="image" src="https://github.com/user-attachments/assets/70f7c322-da16-445c-81c2-1c66d39be0c7" />
 
 **Challenges:**
-I faced some problems in creating a connection where i was told that is no listner but it was resolved and another issue was about creating password complexity, resolved by using a strong password. 
+I faced some issues while creating a connection because the listener wasn’t running, but I fixed it. I also had trouble with password complexity, which I resolved by using a stronger password.
